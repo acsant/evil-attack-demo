@@ -1,0 +1,15 @@
+{
+  "name": "simulate_attacker_server",
+  "version": "1.0.0",
+  "description": "\"Attacker simulation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "attack_server": "node index.js"
+  },
+  "author": "Akash Sant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
